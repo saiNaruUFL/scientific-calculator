@@ -4,4 +4,4 @@
 
 - Simply type in the number you want with the according operation, and continue to follow instructions
 
-![scientificCalcExample](https://user-images.githubusercontent.com/110858892/191422247-00787ab7-2f93-43c6-bdce-c22e0db9f7b8.png)
+![scientificCalcExample2](https://user-images.githubusercontent.com/110858892/191422504-ea39f29c-00ee-4e58-9baf-8c15671f5df8.png)
